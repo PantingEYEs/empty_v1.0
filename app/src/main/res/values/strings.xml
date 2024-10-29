@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">empty v1.0</string>
+    <string name="send_a_udp_request">Send a UDP request</string>
+    <string name="enter_ip_address">1. Enter IP address</string>
+    <string name="enter_port">2. Enter port</string>
+    <string name="enter_message">3. Enter message</string>
+    <string name="refresh">Refresh</string>
+    <string name="permission_granted">All permissions granted.</string>
+    <string name="udp_message_format">%1$s ——> %2$s : %3$d</string>
+</resources>
